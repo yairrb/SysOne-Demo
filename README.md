@@ -1,4 +1,4 @@
-# SysOne-Demo
+# SysOne-Exam
 SysOne interview Demo
 
 ## Dominio del problema
